@@ -1,4 +1,4 @@
-package moviebooking;
+package quizoop_123230083_gorbiellopasaribu;
 
 import javax.swing.*;
 import java.awt.*;
