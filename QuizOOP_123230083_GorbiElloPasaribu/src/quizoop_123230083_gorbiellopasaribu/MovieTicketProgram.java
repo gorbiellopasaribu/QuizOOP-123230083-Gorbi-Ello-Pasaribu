@@ -8,8 +8,3 @@ package quizoop_123230083_gorbiellopasaribu;
  *
  * @author Lab Informatika
  */
-public class MovieTicketProgram {
-    public static void main(String[] args) {
-        new LoginPage();
-    }
-}
